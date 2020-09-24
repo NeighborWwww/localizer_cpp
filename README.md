@@ -1,3 +1,6 @@
 # localizer_cpp
 
-#Project in Intro to Self-Driving cars from Udacity. This project use kelman filter to implement a very very very easy localizer for a ...... robot can only detect 2 colors. Well, just imagine we have that robot cuz this code has nothing to do with a robot.
+Project in Intro to Self-Driving cars from Udacity. This project use kelman filter to implement a very very very easy localizer for a ...... robot can only detect 2 colors. Well, just imagine we have that robot cuz this code has nothing to do with a robot.
+
+# iSDC-P2-Translate-Python-Cpp
+Repository for P2 of iSDC - Translate Python to C++
